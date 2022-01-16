@@ -35,6 +35,6 @@ Blockchain features.
   <a href="https://github.com/zrxBrokkr"><img alt="Github" title="Meriç Kalkan Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:merickalkan7@gmail.com"><img alt="Gmail" title="Meriç Kalkan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:0xbrokker@gmail.com"><img alt="Gmail" title="Meriç Kalkan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://twitter.com/0xBrokkr"><img alt="Twitter" title="Meriç Kalkan Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
