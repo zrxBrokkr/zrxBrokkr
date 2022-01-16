@@ -33,7 +33,6 @@ Blockchain features.
 <p align="center">
   <a href="https://www.linkedin.com/in/meri%C3%A7-kalkan-463115228/"><img alt="Linkedin" title="Meriç Kalkan Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/zrxBrokkr"><img alt="Github" title="Meriç Kalkan Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/merickalkan7"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
   <a href="mailto:merickalkan7@gmail.com"><img alt="Gmail" title="Meriç Kalkan Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
