@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zrxBrokkr. You can tell me 0xbrokkr or brokkr.
+- 👀 I’m interested in blockchain and cyrptocurrencies. 
+- 💞️ I’m creating projects with my bff. 
+- 📫 You can contact with me on github, also my mail adress 0xbrokkr@gmail.com
