@@ -1,7 +1,6 @@
-## Who Am I ?
+## 0xbrokkr
 
-Hi there, I'm Meriç. I'm a professional swimmer and a beginner level programmer. I'm keen on 
-Blockchain features.
+Hi there, ı'm brokkr. 0xbrokkr is a cyrpto trader and blockchain searcher. He always love learn new somethings. If you have a question, don't worry just send me a message. 
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=zrxBrokkr&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
